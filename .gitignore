@@ -1,0 +1,6 @@
+*.dev
+*.db
+test.*
+test
+__pycache__
+config.json

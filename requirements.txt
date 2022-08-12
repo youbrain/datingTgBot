@@ -1,0 +1,3 @@
+peewee
+python-telegram-bot
+geocoder
